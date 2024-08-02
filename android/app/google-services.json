@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "135886098449",
-    "project_id": "eshop-a4126",
-    "storage_bucket": "eshop-a4126.appspot.com"
+    "project_number": "",
+    "project_id": "",
+    "storage_bucket": ""
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:135886098449:android:8cc85694f82ea28eede1b0",
+        "mobilesdk_app_id": "1:",
         "android_client_info": {
-          "package_name": "com.example.eshop"
+          "package_name": ""
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAUC56qyexDFoMOjpFrNRaBga7YcgCfaqw"
+          "current_key": ""
         }
       ],
       "services": {
